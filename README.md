@@ -4,7 +4,7 @@
 
 A modern, responsive, and user-friendly Health Care Website Landing Page built from scratch using HTML and CSS. This project is perfect for learning, portfolio, or as a starting point for healthcare-related web projects.
 
-- **Live Demo:** []()
+- **Live Demo:** [https://healthcare-template-3.netlify.app/](https://healthcare-template-3.netlify.app/)
 
 ---
 
