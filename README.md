@@ -1,6 +1,11 @@
 # Health Care - Javascript Website Template (Design-3)
 
-<img width="1197" height="670" alt="Screenshot 2025-07-28 at 23 08 25" src="https://github.com/user-attachments/assets/19f7249c-94dc-4744-94f8-eb1fc2866191" /> <img width="1234" height="550" alt="Screenshot 2025-07-28 at 23 08 43" src="https://github.com/user-attachments/assets/d5a6c6f7-87d0-43fd-9931-7e8b6aec2069" /> <img width="1114" height="565" alt="Screenshot 2025-07-28 at 23 08 54" src="https://github.com/user-attachments/assets/de2e8ae1-8aae-4531-ae6b-5ff0dfa8ecfb" /> <img width="1127" height="592" alt="Screenshot 2025-07-28 at 23 09 04" src="https://github.com/user-attachments/assets/3e257135-b11c-42ef-9ef6-745c7254b519" /> <img width="1231" height="729" alt="Screenshot 2025-07-28 at 23 09 17" src="https://github.com/user-attachments/assets/e3eff188-f9c4-4840-ae75-c71806fe5e19" /> <img width="1212" height="474" alt="Screenshot 2025-07-28 at 23 10 16" src="https://github.com/user-attachments/assets/a3d4afd6-70b7-491a-a7b5-d13fd0cd333c" />
+![Screenshot 2025-07-28 at 23 08 25](https://github.com/user-attachments/assets/19f7249c-94dc-4744-94f8-eb1fc2866191)
+![Screenshot 2025-07-28 at 23 08 43](https://github.com/user-attachments/assets/d5a6c6f7-87d0-43fd-9931-7e8b6aec2069)
+![Screenshot 2025-07-28 at 23 08 54](https://github.com/user-attachments/assets/de2e8ae1-8aae-4531-ae6b-5ff0dfa8ecfb)
+![Screenshot 2025-07-28 at 23 09 04](https://github.com/user-attachments/assets/3e257135-b11c-42ef-9ef6-745c7254b519)
+![Screenshot 2025-07-28 at 23 09 17](https://github.com/user-attachments/assets/e3eff188-f9c4-4840-ae75-c71806fe5e19)
+![Screenshot 2025-07-28 at 23 10 16](https://github.com/user-attachments/assets/a3d4afd6-70b7-491a-a7b5-d13fd0cd333c)
 
 ---
 
